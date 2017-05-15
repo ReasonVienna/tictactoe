@@ -1,5 +1,5 @@
-This is a repo with examples usages of [Reason-React](https://github.com/reasonml/reason-react), whose docs are [here](https://github.com/reasonml/reason-react/blob/master/documentation.md).
-Have something you don't understand? Join us on [Discord](https://discord.gg/reasonml)!
+This is a TicTacToe implementation in ReasonML.
+We used the `reason-react-examples` project as a base.
 
 ## System setup
 
@@ -24,8 +24,8 @@ opam install merlin
 
 ```sh
 # Clone the repo
-git clone https://github.com/chenglou/reason-react-example.git
-cd reason-react-example
+git clone https://github.com/reasonvienna/tictactoe.git
+cd tictactoe 
 
 npm install
 npm start
